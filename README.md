@@ -9,20 +9,30 @@
 
 
 ## Typography
+### Header
 
-## HTML element
+### paragraphe 
+
+### Color and size
 
 ## Layout and Grill
 ### Breaking Points
 ### Marging and Padding
 ### Mobile device
 
-## Colors and Theme
+## Table layout
+### Header
+### Border
+### Typohraphy
+### Line odd and even
+
+## Colors variables and Theme
 
 ## UI component
 ### button
-### Form
-### input
+### Form and Input
+
+## Icons & Illustrations
 
 ## Animation
 
