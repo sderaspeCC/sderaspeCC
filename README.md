@@ -10,10 +10,21 @@
 
 ## Typography
 
-
 ## HTML element
 
-## Breaking point
+## Layout and Grill
+### Breaking Points
+### Marging and Padding
+### Mobile device
+
+## Colors and Theme
+
+## UI component
+### button
+### Form
+### input
+
+## Animation
 
 ## Style Naming convention
 
