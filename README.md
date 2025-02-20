@@ -6,8 +6,7 @@
 - [6. Icons & Illustrations](#Icons-&-Illustrations)
 - [7. Animation](#Animation)
 - [8. Style Naming convention](#Style-Naming-convention)
-- [9. Typography](#Style-Naming-convention)
-- [10. Function Naming convention](#Function-Naming-convention)
+- [9. Function Naming convention](#Function-Naming-convention)
 
 
 
