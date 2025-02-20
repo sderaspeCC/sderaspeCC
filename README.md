@@ -1,36 +1,37 @@
-- [1. Typography](##Typography)
+- [1. Typography](#Typography)
 
-## Typography
-### Header
+# Typography
 
-### paragraphe 
+## Header
 
-### Color and size
+## paragraphe 
 
-## Layout and Grill
-### Breaking Points
-### Marging and Padding
-### Mobile device
+## Color and size
 
-## Table layout
-### Header
-### Border
-### Typohraphy
-### Line odd and even
+# Layout and Grill
+## Breaking Points
+## Marging and Padding
+## Mobile device
 
-## Colors variables and Theme
+# Table layout
+## Header
+## Border
+## Typohraphy
+## Line odd and even
 
-## UI component
-### button
-### Form and Input
+# Colors variables and Theme
 
-## Icons & Illustrations
+# UI component
+## button
+## Form and Input
 
-## Animation
+# Icons & Illustrations
 
-## Style Naming convention
+# Animation
 
-## Function Naming convention
+# Style Naming convention
+
+# Function Naming convention
 
 ```
 function allo() {
