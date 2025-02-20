@@ -17,6 +17,12 @@
 ## paragraphe 
 
 ## Color and size
+| Type     | Couleur Bootstrap | Couleur Material UI |
+|----------|------------------|--------------------|
+| Succès   | `#198754`        | `#4CAF50`         |
+| Danger   | `#dc3545`        | `#F44336`         |
+| Avertissement | `#ffc107`    | `#FF9800`         |
+| Info     | `#0dcaf0`        | `#2196F3`         |
 
 # Layout and Grill
 ## Breaking Points
