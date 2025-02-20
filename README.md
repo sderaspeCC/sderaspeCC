@@ -1,13 +1,13 @@
 - [1. Typography](#Typography)
 - [2. Layout and Grill](#Layout-and-Grill)
-- [3. Typography](#Table layout)
-- [4. Layout and Grill](#Colors-variables-and-Theme)
-- [5. Typography](#UI=component)
-- [6. Layout and Grill](#Layout-and-Grill)
-- [7. Typography](#Icons-&-Illustrations)
-- [8. Layout and Grill](#Animation)
+- [3. Table layout](#Table-layout)
+- [4. Colors variables and Theme](#Colors-variables-and-Theme)
+- [5. UI component](#UI=component)
+- [6. Icons & Illustrations](#Icons-&-Illustrations)
+- [7. Animation](#Animation)
+- [8. Style Naming convention](#Style-Naming-convention)
 - [9. Typography](#Style-Naming-convention)
-- [10. Layout and Grill](#Function-Naming-convention)
+- [10. Function Naming convention](#Function-Naming-convention)
 
 
 
