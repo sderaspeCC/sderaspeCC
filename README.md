@@ -25,6 +25,17 @@
 | Info     | `#0dcaf0`        | `#2196F3`         |
 
 # Layout and Grill
+## Grill and Container
+| Type of container | behavior |
+|------------------|-------------|
+| `.container` | fixe width adapte to breakpoints |
+| `.container-sm` | 100% width to  `sm` (`≥576px`), puis largeur fixe |
+| `.container-md` | 100% width to  `md` (`≥768px`), puis largeur fixe |
+| `.container-lg` | 100% width to  `lg` (`≥992px`), puis largeur fixe |
+| `.container-xl` | 100% width to  `xl` (`≥1200px`), puis largeur fixe |
+| `.container-xxl` | 100% width to  `xxl` (`≥1400px`), puis largeur fixe |
+| `.container-fluid` | 100% on all screen |
+
 ## Breaking Points
 | Type      | Class label | width |
 |----------|---------|----------------|
