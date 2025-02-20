@@ -26,6 +26,14 @@
 
 # Layout and Grill
 ## Breaking Points
+| Type      | Class label | width |
+|----------|---------|----------------|
+| Extra Small | `xs` (par défaut) | `<576px` |
+| Small | `sm` | `≥576px` |
+| Medium | `md` | `≥768px` |
+| Large | `lg` | `≥992px` |
+| Extra Large | `xl` | `≥1200px` |
+| Extra Extra Large | `xxl` | `≥1400px` |
 ## Marging and Padding
 ## Mobile device
 
