@@ -65,6 +65,17 @@
 # Animation
 
 # Style Naming convention
+## Summary of SMACSS Rules
+
+| Category  | Purpose  | Naming Convention  | Example  |
+|-----------|---------|-------------------|---------|
+| **Base** | Global styles (reset, typography) | Use element selectors | `body { margin: 0; }` |
+| **Layout** | Structural elements (grid, header) | Prefix with `l-` | `.l-container { width: 90%; }` |
+| **Modules** | Reusable components (buttons, cards) | Use BEM | `.button--primary {}` |
+| **State** | Temporary states (active, hidden) | Prefix with `is-` or `has-` | `.is-active {}` |
+| **Theme** | Style variations (light/dark mode) | Prefix with `theme-` | `.theme-dark {}` |
+
+
 
 # Function Naming convention
 
