@@ -77,7 +77,9 @@
 
 
 
-# Function Naming convention
+# Typescript Naming convention
+- [Typescript coding convention](https://google.github.io/styleguide/tsguide.html)
+
 
 ```
 function allo() {
