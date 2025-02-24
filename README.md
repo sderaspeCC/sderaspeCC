@@ -54,7 +54,7 @@ Accessibility: Rem units are particularly beneficial for users who adjust their 
 # Table layout
 ## Header
 ## Border
-## Typohraphy
+## Typoghraphy
 ## Line odd and even
 
 # Colors variables and Theme
