@@ -69,6 +69,7 @@ Accessibility: Rem units are particularly beneficial for users who adjust their 
 
 # Style Naming convention
 ## Summary of SMACSS Rules
+[The guide of SMACSS](#https://smacss.com/)
 
 | Category  | Purpose  | Naming Convention  | Example  |
 |-----------|---------|-------------------|---------|
