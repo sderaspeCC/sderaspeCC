@@ -69,7 +69,7 @@ Accessibility: Rem units are particularly beneficial for users who adjust their 
 
 # Style Naming convention
 ## Summary of SMACSS Rules
-[The guide of SMACSS](#https://smacss.com/)
+[The guide of SMACSS](https://smacss.com/)
 
 | Category  | Purpose  | Naming Convention  | Example  |
 |-----------|---------|-------------------|---------|
@@ -82,8 +82,7 @@ Accessibility: Rem units are particularly beneficial for users who adjust their 
 
 
 # Typescript Naming convention
-- [Typescript coding convention](https://google.github.io/styleguide/tsguide.html)
-
+[Typescript coding convention](https://smacss.com/)
 
 ```
 function allo() {
