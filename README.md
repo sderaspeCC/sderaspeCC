@@ -91,12 +91,6 @@ h2 {
 }
 ```
 
-## Table layout
-
-## Border
-
-## Line odd and even
-
 # Colors variables and Theme
 
 ## Input
