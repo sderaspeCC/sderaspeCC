@@ -15,6 +15,17 @@ Font-size should be set by REM unit.
 Using the "rem" unit allows for a more scalable and flexible way to size elements on a page because if you change the font-size of the root element, all elements sized with the "rem" unit will be updated automatically to maintain their relative size.
 Accessibility: Rem units are particularly beneficial for users who adjust their browser settings for larger text, as these units scale according to user-defined preferences
 
+```
+html, body {
+  font-size : 16px;
+}
+
+button {
+  font-size : 1rem;
+}
+
+```
+
 ## Header
 
 ## paragraphe 
