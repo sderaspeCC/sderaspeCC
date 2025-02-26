@@ -120,7 +120,8 @@ input:disabled {
 }
 ```
 # Icons & Illustrations
-
+https://icons.getbootstrap.com/
+[Icons from Bootstrap](https://icons.getbootstrap.com/)
 
 # Animation
 
