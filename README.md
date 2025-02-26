@@ -78,7 +78,7 @@ h2 {
 | Container      | attribut | value |
 |----------|---------|----------------|
 | Background |  padding | 1rem (16px) |
-| frame | padding | 2.25rem 1.25rem 1.5rem |
+| frame | padding | 2rem 1.25rem 1.5rem |
 | frame | margin-bottom | 1.5rem (24px) |
 
 ## Button on mobile device
@@ -100,9 +100,27 @@ h2 {
 # Colors variables and Theme
 
 ## Input
+```
+input { 
+    font: 1em sans-serif;
+    padding: 0.625rem;
+    border-radius: 0.25rem;
+    background-color: #52667D;
+    color: #cecece;
+    border: none;
+}
 
-
+input:disabled { 
+    font: 1em sans-serif;
+    padding: 0.625rem;
+    border-radius: 0.25rem;
+    background-color: #52667D;
+    color: #A8A8A8;
+    border: none;
+}
+```
 # Icons & Illustrations
+
 
 # Animation
 
