@@ -28,7 +28,21 @@ button {
 
 ## Header
 
-## paragraphe 
+
+```
+<h1>header</h1>
+<h2>header</h2>
+
+h1 {
+  font-size : 2.5rem;
+}
+
+h2 {
+  font-size : 2rem;
+}
+
+```
+
 
 ## Color and size
 | Type     | Couleur Bootstrap | Couleur Material UI |
@@ -59,20 +73,34 @@ button {
 | Large | `lg` | `≥992px` |
 | Extra Large | `xl` | `≥1200px` |
 | Extra Extra Large | `xxl` | `≥1400px` |
-## Marging and Padding
-## Mobile device
+## Marging & Padding on mobile device
 
-# Table layout
-## Header
+| Container      | attribut | value |
+|----------|---------|----------------|
+| Background |  padding | 1rem (16px) |
+| frame | padding | 2.25rem 1.25rem 1.5rem |
+| frame | margin-bottom | 1.5rem (24px) |
+
+## Button on mobile device
+```
+.btn-sm {
+    --bs-btn-padding-y: 0.25rem;
+    --bs-btn-padding-x: 0.5rem;
+    --bs-btn-font-size: 0.875rem;
+    --bs-btn-border-radius: 0.25rem;
+}
+```
+
+## Table layout
+
 ## Border
-## Typoghraphy
+
 ## Line odd and even
 
 # Colors variables and Theme
 
-# UI component
-## button
-## Form and Input
+## Input
+
 
 # Icons & Illustrations
 
@@ -86,7 +114,7 @@ button {
 |-----------|---------|-------------------|---------|
 | **Base** | Global styles (reset, typography) | Use element selectors | `body { margin: 0; }` |
 | **Layout** | Structural elements (grid, header) | Prefix with `l-` | `.l-container { width: 90%; }` |
-| **Modules** | Reusable components (buttons, cards) | Use BEM | `.button--primary {}` |
+| **Modules** | Reusable components (buttons, cards) | Tag Prefix | `.button-primary {}` |
 | **State** | Temporary states (active, hidden) | Prefix with `is-` or `has-` | `.is-active {}` |
 | **Theme** | Style variations (light/dark mode) | Prefix with `theme-` | `.theme-dark {}` |
 
